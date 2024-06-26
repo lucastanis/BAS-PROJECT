@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="WEB_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/Code/src" isTestSource="false" packagePrefix="Bas\" />
+      <sourceFolder url="file://$MODULE_DIR$/Code/tests" isTestSource="true" />
+      <excludeFolder url="file://$MODULE_DIR$/Code/vendor/composer" />
+      <excludeFolder url="file://$MODULE_DIR$/Code/vendor/myclabs/deep-copy" />
+      <excludeFolder url="file://$MODULE_DIR$/Code/vendor/nikic/php-parser" />
+      <excludeFolder url="file://$MODULE_DIR$/Code/vendor/phar-io/manifest" />
+      <excludeFolder url="file://$MODULE_DIR$/Code/vendor/phar-io/version" />
+      <excludeFolder url="file://$MODULE_DIR$/Code/vendor/phpunit/php-code-coverage" />
+      <excludeFolder url="file://$MODULE_DIR$/Code/vendor/phpunit/php-file-iterator" />
+      <excludeFolder url="file://$MODULE_DIR$/Code/vendor/phpunit/php-invoker" />
+      <excludeFolder url="file://$MODULE_DIR$/Code/vendor/phpunit/php-text-template" />
+      <excludeFolder url="file://$MODULE_DIR$/Code/vendor/phpunit/php-timer" />
+      <excludeFolder url="file://$MODULE_DIR$/Code/vendor/phpunit/phpunit" />
+      <excludeFolder url="file://$MODULE_DIR$/Code/vendor/sebastian/cli-parser" />
+      <excludeFolder url="file://$MODULE_DIR$/Code/vendor/sebastian/code-unit" />
+      <excludeFolder url="file://$MODULE_DIR$/Code/vendor/sebastian/code-unit-reverse-lookup" />
+      <excludeFolder url="file://$MODULE_DIR$/Code/vendor/sebastian/comparator" />
+      <excludeFolder url="file://$MODULE_DIR$/Code/vendor/sebastian/complexity" />
+      <excludeFolder url="file://$MODULE_DIR$/Code/vendor/sebastian/diff" />
+      <excludeFolder url="file://$MODULE_DIR$/Code/vendor/sebastian/environment" />
+      <excludeFolder url="file://$MODULE_DIR$/Code/vendor/sebastian/exporter" />
+      <excludeFolder url="file://$MODULE_DIR$/Code/vendor/sebastian/global-state" />
+      <excludeFolder url="file://$MODULE_DIR$/Code/vendor/sebastian/lines-of-code" />
+      <excludeFolder url="file://$MODULE_DIR$/Code/vendor/sebastian/object-enumerator" />
+      <excludeFolder url="file://$MODULE_DIR$/Code/vendor/sebastian/object-reflector" />
+      <excludeFolder url="file://$MODULE_DIR$/Code/vendor/sebastian/recursion-context" />
+      <excludeFolder url="file://$MODULE_DIR$/Code/vendor/sebastian/type" />
+      <excludeFolder url="file://$MODULE_DIR$/Code/vendor/sebastian/version" />
+      <excludeFolder url="file://$MODULE_DIR$/Code/vendor/theseer/tokenizer" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
