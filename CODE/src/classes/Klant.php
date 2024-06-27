@@ -1,6 +1,6 @@
 <?php
-// auteur: Erik van der Wiel
-// functie: definitie class Klant
+// auteur: Lucas Tanis
+// functie: Definitie Class Klant
 namespace Bas\classes;
 
 use Bas\classes\Database;

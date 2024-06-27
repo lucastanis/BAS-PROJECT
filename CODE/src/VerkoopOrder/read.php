@@ -1,6 +1,6 @@
 <!--
-	Auteur: Erik van der Wiel
-	Function: home page CRUD VerkoopOrder
+	Auteur: Lucas Tanis
+	Function: Home Page CRUD VerkoopOrder
 -->
 <!DOCTYPE html>
 <html lang="nl">

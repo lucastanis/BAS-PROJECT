@@ -1,5 +1,5 @@
 <?php
-// auteur: Erik van der Wiel
+// auteur: Lucas Tanis
 // functie: unitests class Klant
 
 use PHPUnit\Framework\TestCase;

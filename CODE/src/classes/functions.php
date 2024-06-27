@@ -1,6 +1,6 @@
 <?php
 // auteur: Erik van der Wiel
-// functie: algemene functies 
+// functie: Algemene Functies
 
 function getTableHeader(array $row) : string {
     // haal de kolommen uit de eerste [0] van het array $result mbv array_keys

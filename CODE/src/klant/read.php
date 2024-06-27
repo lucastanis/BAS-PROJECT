@@ -1,6 +1,6 @@
 <!--
-	Auteur: Erik van der Wiel
-	Function: home page CRUD Klant
+	Auteur: Lucas Tanis
+	Function: Home Page CRUD
 -->
 <!DOCTYPE html>
 <html lang="nl">

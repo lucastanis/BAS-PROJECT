@@ -1,6 +1,6 @@
 <?php
-    // auteur: Erik van der Wiel
-    // functie: update class Klant
+    // auteur: Lucas Tanis
+    // functie: Update Class Klant
 
     // Autoloader classes via composer
     require '../../vendor/autoload.php';

@@ -1,6 +1,6 @@
 <?php
-// auteur: Erik van der Wiel
-// functie: VerkoopOrder verwijderen
+// auteur: Lucas Tanis
+// functie: VerkoopOrder Verwijderen
 
 // Autoloader classes via composer
 require '../../vendor/autoload.php';

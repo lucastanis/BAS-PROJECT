@@ -1,6 +1,6 @@
 <?php 
-// auteur: Erik van der Wiel
-// functie: klant verwijderen
+// auteur: Lucas Tanis
+// functie: Klant Verwijderen
 
 // Autoloader classes via composer
 require '../../vendor/autoload.php';

@@ -1,6 +1,6 @@
 <?php
-// auteur: Erik van der Wiel
-// functie: definitie class Database
+// auteur: Lucas Tanis
+// functie: Definitie Class Database
 namespace Bas\classes;
 
 use PDO;

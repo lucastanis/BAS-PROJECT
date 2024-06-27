@@ -1,6 +1,6 @@
 <?php
 
-// Auteur: Erik van der Wiel
+// Auteur: Lucas Tanis
 // Function: artikel verwijderen
 
 // Autoloader classes via composer

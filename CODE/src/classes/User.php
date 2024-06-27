@@ -1,6 +1,6 @@
 <?php
-// auteur: Erik van der Wiel
-// functie: definitie class User
+// auteur: Lucas Tanis
+// functie: Definitie Class User
 
 namespace Bas\classes;
 

@@ -1,6 +1,6 @@
 <?php
-// auteur: Erik van der Wiel
-// functie: verkoop order toevoegen
+// auteur: Lucas Tanis
+// functie: Verkooporder Toevoegen
 
 // Autoloader classes via composer
 require '../../vendor/autoload.php';

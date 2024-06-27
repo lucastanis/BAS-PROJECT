@@ -1,6 +1,6 @@
 <?php
 // auteur: Erik van der Wiel
-// functie: artikel toevoegen
+// functie: Artikel Toevoegen
 
 // Autoloader classes via composer
 require '../../vendor/autoload.php';

@@ -1,6 +1,6 @@
 <?php
-// auteur: Erik van der Wiel
-// functie: configuratiebestand
+// auteur: Lucas Tanis
+// functie: Configuratiebestand
 
 define("DATABASE", "bas project 8");
 define("SERVERNAME", "localhost");

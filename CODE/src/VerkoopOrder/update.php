@@ -1,5 +1,5 @@
 <?php
-    // auteur: Erik van der Wiel
+    // auteur: Lucas Tanis
     // functie: Update verkoopOrder
 
     // Autoloader classes via composer

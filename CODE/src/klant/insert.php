@@ -1,6 +1,6 @@
 <?php
-//  Auteur: Erik van der Wiel
-//	Function: klant toevoegen
+//  Auteur: Lucas Tanis
+//	Function: Klant Toevoegen
 
 // Autoloader classes via composer
 require '../../vendor/autoload.php';
