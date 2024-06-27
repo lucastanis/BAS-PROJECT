@@ -20,7 +20,7 @@
 </nav>
 
 <form method="GET">
-    <label for="searchArtId">Zoek op ArtId:</label>
+    <label for="searchArtId">Zoek op Artikel:</label>
     <input type="number" id="searchArtId" name="searchArtId">
     <button type="submit">Zoek</button>
 </form>

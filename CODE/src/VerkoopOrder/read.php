@@ -19,7 +19,7 @@
 </nav>
 
 <form method="GET">
-    <label for="searchVerkOrdId">Zoek op VerkOrdId:</label>
+    <label for="searchVerkOrdId">Zoek op Verkooporder</label>
     <input type="number" id="searchVerkOrdId" name="searchVerkOrdId">
     <button type="submit">Zoek</button>
 </form>
